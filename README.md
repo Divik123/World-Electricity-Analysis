@@ -1,1 +1,1 @@
-# World-Electrivity-Analysis
+# World-Electricity-Analysis
